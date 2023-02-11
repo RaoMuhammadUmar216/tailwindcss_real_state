@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tailwindcss_real_state/static/css/main.64731d68.css",
+    "main.js": "/tailwindcss_real_state/static/js/main.d5edfb5f.js",
+    "static/js/787.1a5a042c.chunk.js": "/tailwindcss_real_state/static/js/787.1a5a042c.chunk.js",
+    "static/media/big3.png": "/tailwindcss_real_state/static/media/big3.e09d7dfb46e3ebc2af5d.png",
+    "static/media/big4.png": "/tailwindcss_real_state/static/media/big4.23890ac69bbec76d7d8c.png",
+    "static/media/big1.png": "/tailwindcss_real_state/static/media/big1.ff660dd8b789743f99a1.png",
+    "static/media/story.png": "/tailwindcss_real_state/static/media/story.72f04c1d6a86ab7ad554.png",
+    "static/media/p1.png": "/tailwindcss_real_state/static/media/p1.9fb83b4d88175bf42815.png",
+    "static/media/b2.png": "/tailwindcss_real_state/static/media/b2.b3d921a924ffbccde56c.png",
+    "static/media/b1.png": "/tailwindcss_real_state/static/media/b1.fe82cfd9ee2f406538e5.png",
+    "static/media/heroBuilding.png": "/tailwindcss_real_state/static/media/heroBuilding.1ee7b969ee5d9405139f.png",
+    "static/media/big2.png": "/tailwindcss_real_state/static/media/big2.9aae66e673693810ed0e.png",
+    "static/media/b3.jpg": "/tailwindcss_real_state/static/media/b3.4edba277cce77682fb63.jpg",
+    "static/media/n1.png": "/tailwindcss_real_state/static/media/n1.1b120ae9751ec25149cf.png",
+    "static/media/project1.png": "/tailwindcss_real_state/static/media/project1.74e4c5ae4d3b638e07f7.png",
+    "static/media/project3.png": "/tailwindcss_real_state/static/media/project3.f92e7ea70ab85b5dd90a.png",
+    "static/media/project4.png": "/tailwindcss_real_state/static/media/project4.296169e38bf816e41889.png",
+    "static/media/project2.png": "/tailwindcss_real_state/static/media/project2.7cbe5c089797cce372cf.png",
+    "index.html": "/tailwindcss_real_state/index.html",
+    "main.64731d68.css.map": "/tailwindcss_real_state/static/css/main.64731d68.css.map",
+    "main.d5edfb5f.js.map": "/tailwindcss_real_state/static/js/main.d5edfb5f.js.map",
+    "787.1a5a042c.chunk.js.map": "/tailwindcss_real_state/static/js/787.1a5a042c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64731d68.css",
+    "static/js/main.d5edfb5f.js"
+  ]
+}
