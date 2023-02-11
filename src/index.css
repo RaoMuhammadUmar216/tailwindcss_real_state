@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hero Section */
+.bg_hero_grad {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+
+.bg_grad {
+    background: linear-gradient(97.65deg, #60BBEE 0.33%, #0A72AD 93.35%);
+}
+
+/* Stats Section */
+.bg_stats {
+    background: linear-gradient(97.73deg, #399FD8 -6.96%, #0775B4 23.5%, #003756 92.79%);
+}
+
+
+/* Experience */
+.bg_bar {
+    background: linear-gradient(90deg, #60BBEE -2.22%, #2387C0 67.22%);
+}
+
+/* Profiles */
+.bg_grad_profile {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+
+.shad_profile {
+    box-shadow: 0px 7.0909px 10.6364px rgba(151, 151, 151, 0.12);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+/* Button Shadow */
+.shadow_btn {
+    box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+}
+
+/* footer */
+.footer_gradient {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+    box-shadow: 0px 10px 15px rgba(151, 151, 151, 0.12);
+}
